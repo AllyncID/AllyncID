@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Allync 👋</h1>
+<h1 align="center">Allync</h1>
 
 <p align="center">
-  <strong>Minecraft Plugin Developer</strong> • <strong>Creator of MineHive Network</strong> • <strong>UI/UX Enthusiast</strong>
+  Minecraft Plugin Developer • Creator of MineHive Network • UI/UX Enthusiast
 </p>
 
 <p align="center">
@@ -9,188 +9,180 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Developer-5fbf5f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Paper%20%7C%20Purpur%20%7C%20Folia-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-8a63d2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MineHive-Network-2ea5ff?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a developer focused on building Minecraft server systems with clean gameplay, scalable architecture, and strong performance in mind.
-
-I mainly work on:
-- Minecraft plugin development with **Java**
-- Server-side systems for **Paper / Purpur / Folia**
-- Custom gameplay mechanics and network tools
-- Web systems related to Minecraft communities and stores
-- UI/UX design for cleaner and more polished user experiences
-
-I enjoy creating things that are not only functional, but also feel smooth, premium, and enjoyable to use.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Tools
-![Paper](https://img.shields.io/badge/Paper-Server%20API-white?style=flat-square)
-![Purpur](https://img.shields.io/badge/Purpur-Custom%20Fork-purple?style=flat-square)
-![Folia](https://img.shields.io/badge/Folia-Multithreaded%20Server-4CAF50?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-App%20Development-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDE-000000?style=flat-square&logo=intellijidea&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-Design-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-
----
-
-## 🎮 What I Build
-
-Here are some of the things I like building:
-
-- Custom Minecraft plugins
-- Server management systems
-- Economy and gameplay features
-- Region, jobs, history, and dungeon systems
-- Resource-pack-related tools and custom content workflows
-- Web stores and utility dashboards for Minecraft networks
-- Clean UI/UX concepts for game-related platforms
-
----
-
-## 📌 Featured Projects
-
-### 👤 Profile & Branding
-- **AllyncID**  
-  My GitHub profile repository, used to present my work, identity, and featured projects as a Minecraft plugin developer and creator of MineHive Network.
-
----
-
-### 🧩 Minecraft Plugins
-- **UltimateAuth**  
-  A powerful and flexible authentication solution for Minecraft servers, supporting both proxy platforms such as BungeeCord and Velocity, and game servers such as Spigot and Paper.
-
-- **BlockRegen**  
-  A highly optimized and configurable block regeneration plugin that supports regen regions, custom drops, fixed break durations, per-world multiplier profiles, and integrations with region systems.
-
-- **NightMarket**  
-  A configurable Minecraft plugin that adds a Night Market GUI with timed market cycles and support for multiple economies such as Vault, PlayerPoints, TokenManager, CoinsEngine, and item-based systems.
-
-- **NightMarketAPI**  
-  An API companion for NightMarket that allows other plugins to hook into the system, register custom economy providers or currencies, and check market status and cycle timing.
-
-- **HarvestFlow**  
-  A lightweight farming plugin that improves harvesting flow by allowing mature crops harvested with a hoe to replant automatically.
-
----
-
-### ⚡ Folia Forks & Performance-Oriented Projects
-- **ResourcesWorld-Folia**  
-  A Folia 1.21.11 plugin that auto-loads and regenerates `resources_world` and `resources_world_nether`, includes a safe `/resources` teleport with cooldown, links portals, and applies world-specific handling.
-
-- **Slimefun4-Folia**  
-  An Allync fork of Slimefun4 optimized for Folia 1.21.11, designed to keep the Slimefun experience working better in a multithreaded Folia environment.
-
-- **WorldGuard-Folia**  
-  A Folia-focused fork of WorldGuard for Minecraft 1.21.11, aimed at preserving region protection and management on servers using Folia.
-
-- **FastAsyncWorldEdit-Folia**  
-  A Folia-optimized fork of FastAsyncWorldEdit, tailored for Minecraft 1.21.11 with high-speed world editing and memory-efficient performance.
-
-- **InfinityLib**  
-  A forked utility library for Minecraft 1.21+ built to support Infinity Expansion, including helpers, commands, groups, machines, events, and scheduler-related utilities for Slimefun addons.
-
----
-
-### 🎨 Resource Pack & Conversion Tooling
-- **java-to-bedrock-rp-converter**  
-  A fork of `java2bedrock.sh` for converting Java resource packs to Bedrock, with fixes for path handling, JSON BOM normalization, empty model protection, and conversion consistency.
-
----
-
-### 🌐 Web & Platform Projects
-- **affiliatesgenerator**  
-  A lightweight web-based promo poster generator that lets users input discount codes, preview the result in real time, and export a 1080x1080 PNG image.
-
-- **MineHive-Store**  
-  An e-commerce platform for the MineHive Minecraft server, allowing players to purchase items, ranks, and services.
-
-- **football-league-management-api**  
-  A RESTful API built with Laravel 11 for football league management, including teams, players, scheduling, and automatic standings calculation.
-
----
-
-## 🔥 Project Focus
-
-Most of my repositories are centered around:
-- Minecraft plugin development
-- Folia compatibility and optimization
-- Server systems and gameplay features
-- Resource pack tooling
-- Web platforms for Minecraft communities
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AllyncID&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyncID&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AllyncID&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/AllyncID" target="_blank">
+  <a href="https://github.com/AllyncID">
     <img src="https://img.shields.io/badge/GitHub-AllyncID-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://store.minehive.id" target="_blank">
+  <a href="https://store.minehive.id">
     <img src="https://img.shields.io/badge/Website-MineHive-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://discord.minehive.id" target="_blank">
+  <a href="https://discord.minehive.id">
     <img src="https://img.shields.io/badge/Discord-MineHive-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💡 Philosophy
+## About Me
 
-> Create with purpose.  
-> Build with quality.  
-> Improve with consistency.
+I am a developer focused on building Minecraft server systems with clean gameplay, scalable architecture, and strong performance in mind.
 
-I like creating systems that are clean, useful, scalable, and satisfying to use — whether it's a plugin, a web tool, or a full gameplay experience.
+My main areas of work include:
+- Minecraft plugin development using Java
+- Server systems for Paper, Purpur, and Folia
+- Gameplay mechanics, utilities, and backend tools
+- Web systems for Minecraft communities and digital stores
+- UI/UX design for cleaner and more polished user experiences
+
+I enjoy building things that are not only functional, but also smooth, maintainable, and satisfying to use.
 
 ---
 
-## 📬 Contact
+## Tech Stack
 
-- **GitHub:** [@AllyncID](https://github.com/AllyncID)
-- **Network:** MineHive
-- **Website:** `store.minehive.id`
-- **Discord:** `discord.minehive.id`
+### Languages
+- Java
+- PHP
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks and Tools
+- Paper
+- Purpur
+- Folia
+- Maven
+- Laravel
+- Flutter
+- Firebase
+- MySQL
+- Git
+- IntelliJ IDEA
+
+### Design
+- Figma
+- Photoshop
+
+---
+
+## What I Build
+
+Most of my work is centered around:
+- Minecraft plugins
+- Server-side gameplay systems
+- Folia compatibility and optimization
+- Resource-pack-related tooling
+- Web tools and stores for Minecraft networks
+- UI/UX concepts for game-related platforms
+
+---
+
+## Repository Highlights
+
+### Profile and Identity
+- [AllyncID](https://github.com/AllyncID/AllyncID)  
+  My GitHub profile repository, used to present my work, identity, and featured projects.
+
+### Minecraft Plugins
+- [UltimateAuth](https://github.com/AllyncID/UltimateAuth)  
+  Authentication system for Minecraft servers with support for proxy and backend environments.
+
+- [BlockRegen](https://github.com/AllyncID/BlockRegen)  
+  Configurable block regeneration plugin with support for region-based regeneration and custom behavior.
+
+- [NightMarket](https://github.com/AllyncID/NightMarket)  
+  A timed market plugin with GUI support and multiple economy integrations.
+
+- [NightMarketAPI](https://github.com/AllyncID/NightMarketAPI)  
+  API for extending NightMarket with custom integrations and economy providers.
+
+- [HarvestFlow](https://github.com/AllyncID/HarvestFlow)  
+  Farming quality-of-life plugin focused on smoother harvesting and replanting flow.
+
+### Folia and Performance-Oriented Projects
+- [ResourcesWorld-Folia](https://github.com/AllyncID/ResourcesWorld-Folia)  
+  A Folia-oriented resources world plugin with regeneration, teleport handling, and world-specific logic.
+
+- [Slimefun4-Folia](https://github.com/AllyncID/Slimefun4-Folia)  
+  Folia-focused fork of Slimefun4 adapted for modern multithreaded server environments.
+
+- [WorldGuard-Folia](https://github.com/AllyncID/WorldGuard-Folia)  
+  Folia-compatible fork of WorldGuard aimed at region protection and management.
+
+- [FastAsyncWorldEdit-Folia](https://github.com/AllyncID/FastAsyncWorldEdit-Folia)  
+  Performance-oriented fork of FastAsyncWorldEdit for Folia servers.
+
+- [InfinityLib](https://github.com/AllyncID/InfinityLib)  
+  Utility library used to support Minecraft plugin ecosystems and related systems.
+
+### Resource Pack and Conversion Tooling
+- [java-to-bedrock-rp-converter](https://github.com/AllyncID/java-to-bedrock-rp-converter)  
+  Tooling and conversion work related to Java-to-Bedrock resource pack workflows.
+
+### Web and Platform Projects
+- [affiliatesgenerator](https://github.com/AllyncID/affiliatesgenerator)  
+  Promo poster generator for discount and affiliate-based visual content.
+
+- [MineHive-Store](https://github.com/AllyncID/MineHive-Store)  
+  Store platform for MineHive digital products and server-related purchases.
+
+- [football-league-management-api](https://github.com/AllyncID/football-league-management-api)  
+  RESTful API project for football league management built with Laravel.
+
+---
+
+## Current Focus
+
+I am currently focused on:
+- Improving Minecraft server performance and scalability
+- Building custom gameplay plugins
+- Exploring better multithreaded server solutions with Folia
+- Developing clean server-side tools for real production use
+- Combining development with strong visual presentation and branding
+
+---
+
+## Project Direction
+
+My repositories generally follow these themes:
+- Minecraft plugin development
+- Folia adaptation and optimization
+- Server tools and gameplay systems
+- Resource pack support and utility workflows
+- Web systems for communities and monetization
+
+---
+
+## MineHive
+
+MineHive is the main network and ecosystem behind much of my development work.
+
+Areas connected to MineHive include:
+- server systems
+- gameplay features
+- economy mechanics
+- store and purchasing flows
+- custom tools for management and player experience
+
+Website: `store.minehive.id`  
+Community: `discord.minehive.id`
+
+---
+
+## Philosophy
+
+Create with purpose.  
+Build with quality.  
+Improve with consistency.
+
+I prefer creating systems that are useful, scalable, and satisfying to use, whether it is a plugin, a web tool, or a full gameplay experience.
+
+---
+
+## Contact
+
+GitHub: [@AllyncID](https://github.com/AllyncID)  
+Website: `store.minehive.id`  
+Discord: `discord.minehive.id`
 
 ---
 
