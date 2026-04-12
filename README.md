@@ -56,8 +56,6 @@ This stack reflects the technologies I rely on most when building plugins, syste
   <img src="https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-464646?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-4f4f4f?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-585858?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-616161?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -66,6 +64,8 @@ This stack reflects the technologies I rely on most when building plugins, syste
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TSX-222222?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-4f4f4f?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-585858?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### Minecraft APIs and Platforms
