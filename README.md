@@ -56,7 +56,7 @@ The layout stays monochrome, compact, and intentionally clean for a more profess
 <table align="center">
   <tr>
     <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/openjdk/white" width="26" alt="Java" /><br><sub>Java</sub>
+      <img src="https://img.icons8.com/ios_filled/512/FFFFFF/java-coffee-cup-logo.png" width="26" alt="Java" /><br><sub>Java</sub>
     </td>
     <td align="center" width="78" height="78" bgcolor="#111111">
       <img src="https://cdn.simpleicons.org/python/white" width="26" alt="Python" /><br><sub>Python</sub>
@@ -116,42 +116,6 @@ The layout stays monochrome, compact, and intentionally clean for a more profess
   </tr>
 </table>
 
-### Minecraft Platforms and Server Stack
-
-This part represents the server platforms, APIs, and ecosystem tools I work with most across plugin development and network infrastructure.
-For consistency, I use monochrome monogram tiles here so the section stays clean and avoids broken or mismatched niche logos.
-
-<table align="center">
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PPR</strong><br><sub>Paper</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PUR</strong><br><sub>Purpur</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>FOL</strong><br><sub>Folia</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>SPG</strong><br><sub>Spigot</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>BKT</strong><br><sub>Bukkit</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>BUN</strong><br><sub>Bungee</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/velocity/white" width="26" alt="Velocity" /><br><sub>Velocity</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>WG</strong><br><sub>WorldGuard</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>WE</strong><br><sub>WorldEdit</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>FA</strong><br><sub>FAWE</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PL</strong><br><sub>ProtocolLib</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/vault/white" width="26" alt="Vault" /><br><sub>Vault</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>SF</strong><br><sub>Slimefun</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>GEY</strong><br><sub>GeyserMC</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>RP</strong><br><sub>Resource Pack</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>NMS</strong><br><sub>NMS</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>API</strong><br><sub>Plugin API</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>NET</strong><br><sub>Network</sub></td>
-  </tr>
-</table>
-
 ### Frameworks, Tools, Environment, and Design
 
 These are the tools I use around the actual development workflow, from build systems and deployment to UI work and creative production.
@@ -188,8 +152,12 @@ I keep them in the same monochrome style so the whole section feels unified inst
     <td align="center" width="78" height="78" bgcolor="#111111">
       <img src="https://cdn.simpleicons.org/apache/white" width="26" alt="Apache" /><br><sub>Apache</sub>
     </td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>VPS</strong><br><sub>VPS</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PTR</strong><br><sub>Pterodactyl</sub></td>
+    <td align="center" width="78" height="78" bgcolor="#111111">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/018/802/296/small/white-cloud-icon-png.png" width="26" alt="VPS" /><br><sub>VPS</sub>
+    </td>
+    <td align="center" width="78" height="78" bgcolor="#111111">
+      <img src="https://i.imgur.com/3C0YJCM.jpeg" width="26" alt="Pterodactyl" /><br><sub>Pterodactyl</sub>
+    </td>
     <td align="center" width="78" height="78" bgcolor="#111111">
       <img src="https://cdn.simpleicons.org/figma/white" width="26" alt="Figma" /><br><sub>Figma</sub>
     </td>
@@ -200,9 +168,41 @@ I keep them in the same monochrome style so the whole section feels unified inst
     <td align="center" width="78" height="78" bgcolor="#111111"><strong>AE</strong><br><sub>After Effects</sub></td>
     <td align="center" width="78" height="78" bgcolor="#111111"><strong>PR</strong><br><sub>Premiere Pro</sub></td>
     <td align="center" width="78" height="78" bgcolor="#111111"><strong>AN</strong><br><sub>Animate</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>ESP</strong><br><sub>ESP32</sub></td>
+    <td align="center" width="78" height="78" bgcolor="#111111"><strong>ESP</strong><br><sub>Arduino IDE</sub></td>
   </tr>
 </table>
+
+### Minecraft Platforms and Server Stack
+
+This part represents the server platforms, APIs, and ecosystem tools I work with most across plugin development and network infrastructure.
+For consistency, I use monochrome monogram tiles here so the section stays clean and avoids broken or mismatched niche logos.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Paper-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Purpur-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Folia-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spigot-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bukkit-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bungee-111111?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square&logo=velocity&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorldGuard-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorldEdit-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAWE-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ProtocolLib-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-111111?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Slimefun-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeyserMC-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resource%20Pack-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/NMS-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plugin%20API-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-111111?style=flat-square&logoColor=white" />
+</p>
 
 ---
 
