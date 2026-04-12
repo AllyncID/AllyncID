@@ -31,7 +31,8 @@ My main areas of work include:
 - Server systems for Paper, Purpur, and Folia
 - Gameplay mechanics, utilities, and backend tools
 - Web systems for Minecraft communities and digital stores
-- UI/UX design for cleaner and more polished user experiences
+- Mobile and cross-platform app development
+- UI/UX design and visual branding for polished user experiences
 
 I enjoy building things that are not only functional, but also smooth, maintainable, and satisfying to use.
 
@@ -42,8 +43,11 @@ I enjoy building things that are not only functional, but also smooth, maintaina
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -51,7 +55,7 @@ I enjoy building things that are not only functional, but also smooth, maintaina
 
 ### Minecraft APIs and Platforms
 <p>
-  <img src="https://img.shields.io/badge/Paper-FFFFFF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Paper-2D2D2D?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Purpur-7A42F4?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Folia-4CAF50?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Spigot-F28C28?style=flat-square&logoColor=white" />
@@ -81,7 +85,11 @@ I enjoy building things that are not only functional, but also smooth, maintaina
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Animate-FF0000?style=flat-square&logo=adobeanimate&logoColor=white" />
 </p>
 
 ---
@@ -94,6 +102,7 @@ Most of my work is centered around:
 - Folia compatibility and optimization
 - Resource-pack-related tooling
 - Web tools and stores for Minecraft networks
+- Mobile applications and utility systems
 - UI/UX concepts for game-related platforms
 
 ---
@@ -149,54 +158,6 @@ Most of my work is centered around:
 
 - [football-league-management-api](https://github.com/AllyncID/football-league-management-api)  
   RESTful API project for football league management built with Laravel.
-
----
-
-## Current Focus
-
-I am currently focused on:
-- Improving Minecraft server performance and scalability
-- Building custom gameplay plugins
-- Exploring better multithreaded server solutions with Folia
-- Developing clean server-side tools for real production use
-- Combining development with strong visual presentation and branding
-
----
-
-## Project Direction
-
-My repositories generally follow these themes:
-- Minecraft plugin development
-- Folia adaptation and optimization
-- Server tools and gameplay systems
-- Resource pack support and utility workflows
-- Web systems for communities and monetization
-
----
-
-## MineHive
-
-MineHive is the main network and ecosystem behind much of my development work.
-
-Areas connected to MineHive include:
-- server systems
-- gameplay features
-- economy mechanics
-- store and purchasing flows
-- custom tools for management and player experience
-
-Website: `store.minehive.id`  
-Community: `discord.minehive.id`
-
----
-
-## Philosophy
-
-Create with purpose.  
-Build with quality.  
-Improve with consistency.
-
-I prefer creating systems that are useful, scalable, and satisfying to use, whether it is a plugin, a web tool, or a full gameplay experience.
 
 ---
 
