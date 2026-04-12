@@ -4,8 +4,6 @@
   <img src="https://i.imgur.com/Y3xqSVp.png" alt="Allync Banner" width="100%" />
 </p>
 
-<h1 align="center">Allync</h1>
-
 <p align="center">
   Minecraft Plugin Developer • Creator of MineHive Network • UI/UX Enthusiast
 </p>
