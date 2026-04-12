@@ -156,7 +156,7 @@ I keep them in the same monochrome style so the whole section feels unified inst
       <img src="https://static.vecteezy.com/system/resources/thumbnails/018/802/296/small/white-cloud-icon-png.png" width="26" alt="VPS" /><br><sub>VPS</sub>
     </td>
     <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://i.imgur.com/3C0YJCM.jpeg" width="26" alt="Pterodactyl" /><br><sub>Pterodactyl</sub>
+      <img src="https://i.imgur.com/IBkXUJF.png" width="26" alt="Pterodactyl" /><br><sub>Pterodactyl</sub>
     </td>
     <td align="center" width="78" height="78" bgcolor="#111111">
       <img src="https://cdn.simpleicons.org/figma/white" width="26" alt="Figma" /><br><sub>Figma</sub>
