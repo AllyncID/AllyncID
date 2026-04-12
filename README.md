@@ -101,15 +101,13 @@ What I usually build:
 
 ## Statistics
 
-### Most Used Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllyncID&layout=compact&langs_count=8&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=333333"
-    alt="Most Used Languages"
-  />
-</p>
+A quick look at my recent activity and development consistency.  
+This section reflects the work, experiments, and ongoing progress behind the projects I build.
 
 ### Contribution Graph
+A visual snapshot of my coding activity over time.  
+It highlights consistency, momentum, and the rhythm of my development work.
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AllyncID&bg_color=000000&color=ffffff&line=ffffff&point=999999&area=true&area_color=2b2b2b&hide_border=true"
@@ -120,6 +118,9 @@ What I usually build:
 ---
 
 ## Contact
+
+You can find me through the platforms below.  
+For projects, collaborations, or anything related to development and creative work, these are the best places to reach me.
 
 <p>
   <a href="https://github.com/AllyncID">
