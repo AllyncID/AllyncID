@@ -40,27 +40,49 @@ I enjoy building things that are not only functional, but also smooth, maintaina
 ## Tech Stack
 
 ### Languages
-- Java
-- PHP
-- JavaScript
-- HTML
-- CSS
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Minecraft APIs and Platforms
+<p>
+  <img src="https://img.shields.io/badge/Paper-FFFFFF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Purpur-7A42F4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Folia-4CAF50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spigot-F28C28?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bukkit-8B5E3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velocity-2C3E50?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/BungeeCord-C0392B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorldGuard-2E8B57?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WorldEdit-4B6584?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAWE-6C5CE7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slimefun-16A085?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-6D4C41?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ProtocolLib-34495E?style=flat-square&logoColor=white" />
+</p>
 
 ### Frameworks and Tools
-- Paper
-- Purpur
-- Folia
-- Maven
-- Laravel
-- Flutter
-- Firebase
-- MySQL
-- Git
-- IntelliJ IDEA
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+</p>
 
 ### Design
-- Figma
-- Photoshop
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+</p>
 
 ---
 
