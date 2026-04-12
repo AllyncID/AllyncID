@@ -100,21 +100,6 @@ This stack reflects the technologies I rely on most when building plugins, syste
   <img src="https://img.shields.io/badge/XAMPP-6a6a6a?style=flat-square&logo=xampp&logoColor=white" />
 </p>
 
-### Infrastructure and Deployment
-<p>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-1a1a1a?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-222222?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pterodactyl-2b2b2b?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPS_Deployment-343434?style=flat-square&logoColor=white" />
-</p>
-
-### Embedded and Hardware
-<p>
-  <img src="https://img.shields.io/badge/ESP32-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-1a1a1a?style=flat-square&logo=arduino&logoColor=white" />
-</p>
-
 ### Design
 <p>
   <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
