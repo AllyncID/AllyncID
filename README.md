@@ -128,6 +128,22 @@ It highlights consistency, momentum, and the rhythm of my development work.
   />
 </p>
 
+### Streak and Languages
+A compact overview of my coding streak, development consistency, and the languages I use most across the different projects I build and maintain.
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AllyncID&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+    alt="GitHub Streak Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=AllyncID&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
 ---
 
 ## Contact
