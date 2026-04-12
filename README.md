@@ -75,26 +75,74 @@ Here are some of the things I like building:
 
 ## 📌 Featured Projects
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| **MineHive Network** | Main Minecraft network project focused on scalable systems and polished gameplay experiences. | Active |
-| **HiveJobs** | Job system plugin with escrow-like workflow and Vault integration. | In Progress |
-| **StaffHistory** | Staff moderation history plugin for tracking actions like warnings and mutes. | In Progress |
-| **HiveRegion** | Region discovery plugin with title/subtitle support and WorldGuard integration. | In Progress |
-| **HiveFishingEvents** | Fishing contest event system with rewards and leaderboard logic. | In Progress |
-| **Minecraft Store Web** | Store and web system for Minecraft-related purchases and features. | Active |
+### 👤 Profile & Branding
+- **AllyncID**  
+  My GitHub profile repository, used to present my work, identity, and featured projects as a Minecraft plugin developer and creator of MineHive Network.
 
 ---
 
-## 🔥 Current Focus
+### 🧩 Minecraft Plugins
+- **UltimateAuth**  
+  A powerful and flexible authentication solution for Minecraft servers, supporting both proxy platforms such as BungeeCord and Velocity, and game servers such as Spigot and Paper.
 
-Right now, I'm mainly focused on:
+- **BlockRegen**  
+  A highly optimized and configurable block regeneration plugin that supports regen regions, custom drops, fixed break durations, per-world multiplier profiles, and integrations with region systems.
 
-- Improving Minecraft server performance and scalability
-- Building custom gameplay plugins
-- Exploring better multithreaded server solutions like **Folia**
-- Creating smoother user experiences for server systems
-- Combining development with strong visual presentation and branding
+- **NightMarket**  
+  A configurable Minecraft plugin that adds a Night Market GUI with timed market cycles and support for multiple economies such as Vault, PlayerPoints, TokenManager, CoinsEngine, and item-based systems.
+
+- **NightMarketAPI**  
+  An API companion for NightMarket that allows other plugins to hook into the system, register custom economy providers or currencies, and check market status and cycle timing.
+
+- **HarvestFlow**  
+  A lightweight farming plugin that improves harvesting flow by allowing mature crops harvested with a hoe to replant automatically.
+
+---
+
+### ⚡ Folia Forks & Performance-Oriented Projects
+- **ResourcesWorld-Folia**  
+  A Folia 1.21.11 plugin that auto-loads and regenerates `resources_world` and `resources_world_nether`, includes a safe `/resources` teleport with cooldown, links portals, and applies world-specific handling.
+
+- **Slimefun4-Folia**  
+  An Allync fork of Slimefun4 optimized for Folia 1.21.11, designed to keep the Slimefun experience working better in a multithreaded Folia environment.
+
+- **WorldGuard-Folia**  
+  A Folia-focused fork of WorldGuard for Minecraft 1.21.11, aimed at preserving region protection and management on servers using Folia.
+
+- **FastAsyncWorldEdit-Folia**  
+  A Folia-optimized fork of FastAsyncWorldEdit, tailored for Minecraft 1.21.11 with high-speed world editing and memory-efficient performance.
+
+- **InfinityLib**  
+  A forked utility library for Minecraft 1.21+ built to support Infinity Expansion, including helpers, commands, groups, machines, events, and scheduler-related utilities for Slimefun addons.
+
+---
+
+### 🎨 Resource Pack & Conversion Tooling
+- **java-to-bedrock-rp-converter**  
+  A fork of `java2bedrock.sh` for converting Java resource packs to Bedrock, with fixes for path handling, JSON BOM normalization, empty model protection, and conversion consistency.
+
+---
+
+### 🌐 Web & Platform Projects
+- **affiliatesgenerator**  
+  A lightweight web-based promo poster generator that lets users input discount codes, preview the result in real time, and export a 1080x1080 PNG image.
+
+- **MineHive-Store**  
+  An e-commerce platform for the MineHive Minecraft server, allowing players to purchase items, ranks, and services.
+
+- **football-league-management-api**  
+  A RESTful API built with Laravel 11 for football league management, including teams, players, scheduling, and automatic standings calculation.
+
+---
+
+## 🔥 Project Focus
+
+Most of my repositories are centered around:
+- Minecraft plugin development
+- Folia compatibility and optimization
+- Server systems and gameplay features
+- Resource pack tooling
+- Web platforms for Minecraft communities
 
 ---
 
