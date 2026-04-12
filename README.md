@@ -1,4 +1,3 @@
-<!-- Upload your banner image to this repo as banner.png -->
 
 <p align="center">
   <img src="https://i.imgur.com/Y3xqSVp.png" alt="Allync Banner" width="100%" />
@@ -46,7 +45,7 @@ What I usually build:
 ## Tech Stack
 
 The main languages, tools, and platforms I use across development, design, and production workflows.  
-This stack reflects the technologies I rely on most when building plugins, systems, interfaces, and digital products.
+This stack reflects the technologies I rely on most when building plugins, systems, interfaces, bots, and digital products.
 
 ### Languages
 <p>
@@ -55,10 +54,18 @@ This stack reflects the technologies I rely on most when building plugins, syste
   <img src="https://img.shields.io/badge/C%2B%2B-222222?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-2b2b2b?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-3d3d3d?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-464646?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-4f4f4f?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-585858?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3d3d3d?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-464646?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-4f4f4f?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-585858?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-616161?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Frontend and Web
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TSX-222222?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 ### Minecraft APIs and Platforms
@@ -81,13 +88,16 @@ This stack reflects the technologies I rely on most when building plugins, syste
 ### Frameworks and Tools
 <p>
   <img src="https://img.shields.io/badge/Maven-111111?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-1a1a1a?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-222222?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-343434?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-3d3d3d?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-464646?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-4f4f4f?style=flat-square&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-1a1a1a?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-222222?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter_3-2b2b2b?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-343434?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-3d3d3d?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-464646?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-4f4f4f?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-585858?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-616161?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-6a6a6a?style=flat-square&logo=xampp&logoColor=white" />
 </p>
 
 ### Design
