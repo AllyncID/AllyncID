@@ -100,28 +100,6 @@ This stack reflects the technologies I rely on most when building plugins, syste
   <img src="https://img.shields.io/badge/Adobe_Animate-3d3d3d?style=flat-square&logoColor=white" />
 </p>
 
-### Frameworks and Tools
-<p>
-  <img src="https://img.shields.io/badge/Maven-111111?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-1a1a1a?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-222222?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-2b2b2b?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-343434?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-3d3d3d?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-464646?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-4f4f4f?style=flat-square&logo=xampp&logoColor=white" />
-</p>
-
-### Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-1a1a1a?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-222222?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-2b2b2b?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-343434?style=flat-square&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Animate-3d3d3d?style=flat-square&logo=adobeanimate&logoColor=white" />
-</p>
-
 ---
 
 ## Statistics
