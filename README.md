@@ -44,14 +44,14 @@ What I usually build:
 
 ## Tech Stack
 
-I focus on a compact set of technologies that I use most across plugin development, backend systems, automation, and web-based tools.
-Most of my work is centered around performance, maintainability, and clean implementation rather than stacking too many frameworks at once.
-This section highlights the languages and Minecraft platforms I actively work with the most.
+I focus on a compact set of technologies that I use most across plugin development, backend systems, automation, and web-based interfaces.
+Most of my work is centered around performance, maintainability, and clean implementation rather than trying to include every tool I have ever touched.
+This section highlights the languages and server platforms I actively use the most.
 
 ### Core Languages
 
-These are the main languages I use most often across development, scripting, backend logic, server tooling, and web systems.
-I keep this section intentionally focused so it reflects my actual day-to-day workflow more clearly.
+These are the main languages and core web technologies I use most often across development, scripting, backend logic, server tooling, and interface building.
+I keep this section intentionally focused so it reflects my actual workflow more clearly and professionally.
 
 <table align="center">
   <tr>
@@ -74,6 +74,42 @@ I keep this section intentionally focused so it reflects my actual day-to-day wo
       <img src="https://cdn.simpleicons.org/gnubash/white" width="26" alt="Shell" /><br><sub>Shell</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/html5/white" width="26" alt="HTML5" /><br><sub>HTML</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/css/white" width="26" alt="CSS3" /><br><sub>CSS</sub>
+    </td>
+  </tr>
+</table>
+
+### Frameworks & Build Tools
+
+These are the frameworks and build tools I use most to structure applications, manage projects, and support development workflows.
+I keep this part selective so it stays aligned with the technologies I actually use most often.
+
+<table align="center">
+  <tr>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/laravel/white" width="26" alt="Laravel" /><br><sub>Laravel</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/codeigniter/white" width="26" alt="CodeIgniter" /><br><sub>CodeIgniter</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/react/white" width="26" alt="React" /><br><sub>React</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="26" alt="Next.js" /><br><sub>Next.js</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/apachemaven/white" width="26" alt="Maven" /><br><sub>Maven</sub>
+    </td>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/gradle/white" width="26" alt="Gradle" /><br><sub>Gradle</sub>
+    </td>
+  </tr>
 </table>
 
 ### Minecraft Server Stack
@@ -82,12 +118,22 @@ My main development focus in the Minecraft ecosystem is centered around plugin p
 These are the core platforms I work with most when building plugins, backend systems, and network-level solutions.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Paper-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Purpur-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Folia-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spigot-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/BungeeCord-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square&logoColor=white" />
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" width="16" alt="Paper" />
+  <img src="https://img.shields.io/badge/Paper-111111?style=flat-square" alt="Paper" />
+
+  <img src="https://avatars.githubusercontent.com/u/94729614?v=4" width="16" alt="Purpur" />
+  <img src="https://img.shields.io/badge/Purpur-111111?style=flat-square" alt="Purpur" />
+
+  <img src="https://www.pngkey.com/png/full/208-2087400_white-leaf-icon-png.png" width="16" alt="Folia" />
+  <img src="https://img.shields.io/badge/Folia-111111?style=flat-square" alt="Folia" />
+
+  <img src="https://proxy.spigotmc.org/a8fa5c49b64fdfc435cc3837163e21fbcc282084/687474703a2f2f692e696d6775722e636f6d2f4a6b594d4b58362e706e67" width="16" alt="Spigot" />
+  <img src="https://img.shields.io/badge/Spigot-111111?style=flat-square" alt="Spigot" />
+
+  <img src="https://img.shields.io/badge/BungeeCord-111111?style=flat-square" alt="BungeeCord" />
+
+  <img src="https://assets.papermc.io/brand/velocity_logo_white.min.svg" width="16" alt="Velocity" />
+  <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square" alt="Velocity" />
 </p>
 
 ---
