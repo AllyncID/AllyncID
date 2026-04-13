@@ -124,7 +124,7 @@ These are the core platforms I work with most when building plugins, backend sys
   <img src="https://avatars.githubusercontent.com/u/94729614?v=4" width="16" alt="Purpur" />
   <img src="https://img.shields.io/badge/Purpur-111111?style=flat-square" alt="Purpur" />
 
-  <img src="https://www.pngkey.com/png/full/208-2087400_white-leaf-icon-png.png" width="16" alt="Folia" />
+  <img src="https://i.imgur.com/GagVY0z.png" width="16" alt="Folia" />
   <img src="https://img.shields.io/badge/Folia-111111?style=flat-square" alt="Folia" />
 
   <img src="https://proxy.spigotmc.org/a8fa5c49b64fdfc435cc3837163e21fbcc282084/687474703a2f2f692e696d6775722e636f6d2f4a6b594d4b58362e706e67" width="16" alt="Spigot" />
