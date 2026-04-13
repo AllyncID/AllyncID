@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://i.imgur.com/Y3xqSVp.png" alt="Allync Banner" width="100%" />
 </p>
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building scalable Minecraft server systems, polished gameplay experiences, and clean digital products.
+  Building scalable Minecraft systems, polished gameplay experiences, and clean digital products.
 </p>
 
 <p align="center">
@@ -27,31 +26,31 @@
 
 ## About Me
 
-I am a developer focused on building Minecraft server systems with clean gameplay, scalable architecture, and strong performance in mind. My work combines backend systems, gameplay mechanics, visual presentation, and practical tools that are designed to feel smooth, maintainable, and polished.
+I build Minecraft server systems with a strong focus on performance, clean gameplay, scalable architecture, and polished user experience. My work combines backend logic, gameplay mechanics, visual presentation, and practical tools designed for real production environments.
 
-I mainly work across Minecraft plugin development, server infrastructure, web systems, mobile utility apps, and UI/UX design. I enjoy building things that are not only functional, but also organized, efficient, and satisfying to use in real production environments.
+I mainly work across plugin development, server infrastructure, web systems, mobile utility apps, and UI/UX design.
 
 What I usually build:
 - Custom Minecraft plugins
-- Server-side gameplay systems
-- Folia-compatible and performance-oriented tools
+- Gameplay and server-side systems
+- Performance-oriented and Folia-compatible tools
 - Resource-pack-related utilities
-- Web stores and platform tools for Minecraft communities
+- Web platforms for Minecraft communities
 - Mobile and cross-platform applications
-- UI/UX concepts and branded visual assets
+- UI/UX concepts and branded assets
 
 ---
 
 ## Tech Stack
 
 I focus on a compact set of technologies that I use most across plugin development, backend systems, automation, and web-based interfaces.
-Most of my work is centered around performance, maintainability, and clean implementation rather than trying to include every tool I have ever touched.
-This section highlights the languages and server platforms I actively use the most.
+Most of my work is centered around performance, maintainability, and clean implementation.
+This section highlights the tools and platforms I actively use the most.
 
 ### Core Languages
 
 These are the main languages and core web technologies I use most often across development, scripting, backend logic, server tooling, and interface building.
-I keep this section intentionally focused so it reflects my actual workflow more clearly and professionally.
+I keep this section focused so it reflects my actual workflow clearly.
 
 <table align="center">
   <tr>
@@ -141,12 +140,9 @@ These are the core platforms I work with most when building plugins, backend sys
 
 ## Statistics
 
-A quick look at my recent activity and development consistency.  
-This section reflects the work, experiments, and ongoing progress behind the projects I build.
+A quick overview of my development activity, consistency, and ongoing work across the projects I build and maintain.
 
 ### Contribution Graph
-A visual snapshot of my coding activity over time.  
-It highlights consistency, momentum, and the rhythm of my development work.
 
 <p align="center">
   <img
@@ -156,7 +152,6 @@ It highlights consistency, momentum, and the rhythm of my development work.
 </p>
 
 ### Streak and Languages
-A compact overview of my coding streak, development consistency, and the languages I use most across the different projects I build and maintain.
 
 <p align="center">
   <img
@@ -175,8 +170,7 @@ A compact overview of my coding streak, development consistency, and the languag
 
 ## Contact
 
-You can find me through the platforms below.  
-For projects, collaborations, or anything related to development and creative work, these are the best places to reach me.
+For projects, collaborations, or development-related work, these are the best places to reach me.
 
 <p>
   <a href="https://github.com/AllyncID">
@@ -191,10 +185,6 @@ For projects, collaborations, or anything related to development and creative wo
 </p>
 
 ---
-
-<p align="center">
-  Thanks for visiting my profile.
-</p>
 
 <p align="center">
   <strong>Allync</strong> — Building better Minecraft experiences.
