@@ -44,164 +44,50 @@ What I usually build:
 
 ## Tech Stack
 
-I work across Minecraft systems, backend development, web interfaces, and design-driven product work.
-Most of what I build sits at the intersection of performance, usability, and clean presentation.
-I prefer a stack that feels production-ready, maintainable, and visually polished.
+I focus on a compact set of technologies that I use most across plugin development, backend systems, automation, and web-based tools.
+Most of my work is centered around performance, maintainability, and clean implementation rather than stacking too many frameworks at once.
+This section highlights the languages and Minecraft platforms I actively work with the most.
 
-### Languages, Web, and Core Development
+### Core Languages
 
-These are the core technologies I use most for plugin development, backend systems, websites, and application interfaces.
-The layout stays monochrome, compact, and intentionally clean for a more professional GitHub profile look.
+These are the main languages I use most often across development, scripting, backend logic, server tooling, and web systems.
+I keep this section intentionally focused so it reflects my actual day-to-day workflow more clearly.
 
 <table align="center">
   <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
+    <td align="center" width="90" height="78" bgcolor="#111111">
       <img src="https://img.icons8.com/ios_filled/512/FFFFFF/java-coffee-cup-logo.png" width="26" alt="Java" /><br><sub>Java</sub>
     </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/python/white" width="26" alt="Python" /><br><sub>Python</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/cplusplus/white" width="26" alt="C++" /><br><sub>C++</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/php/white" width="26" alt="PHP" /><br><sub>PHP</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/javascript/white" width="26" alt="JavaScript" /><br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
+    <td align="center" width="90" height="78" bgcolor="#111111">
       <img src="https://cdn.simpleicons.org/typescript/white" width="26" alt="TypeScript" /><br><sub>TypeScript</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <strong>TSX</strong><br><sub>TSX</sub>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/python/white" width="26" alt="Python" /><br><sub>Python</sub>
     </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/react/white" width="26" alt="React" /><br><sub>React</sub>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/javascript/white" width="26" alt="JavaScript" /><br><sub>JavaScript</sub>
     </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="26" alt="Next.js" /><br><sub>Next.js</sub>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/php/white" width="26" alt="PHP" /><br><sub>PHP</sub>
     </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/html5/white" width="26" alt="HTML5" /><br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/css/white" width="26" alt="CSS3" /><br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/mysql/white" width="26" alt="MySQL" /><br><sub>MySQL</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/laravel/white" width="26" alt="Laravel" /><br><sub>Laravel</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/codeigniter/white" width="26" alt="CodeIgniter 3" /><br><sub>CI 3</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/codeigniter/white" width="26" alt="CodeIgniter 4" /><br><sub>CI 4</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/flutter/white" width="26" alt="Flutter" /><br><sub>Flutter</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/firebase/white" width="26" alt="Firebase" /><br><sub>Firebase</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/dart/white" width="26" alt="Dart" /><br><sub>Dart</sub>
+    <td align="center" width="90" height="78" bgcolor="#111111">
+      <img src="https://cdn.simpleicons.org/gnubash/white" width="26" alt="Shell" /><br><sub>Shell</sub>
     </td>
   </tr>
 </table>
 
-### Frameworks, Tools, Environment, and Design
+### Minecraft Server Stack
 
-These are the tools I use around the actual development workflow, from build systems and deployment to UI work and creative production.
-I keep them in the same monochrome style so the whole section feels unified instead of looking like a random badge dump.
-
-<table align="center">
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/apachemaven/white" width="26" alt="Maven" /><br><sub>Maven</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/gradle/white" width="26" alt="Gradle" /><br><sub>Gradle</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/git/white" width="26" alt="Git" /><br><sub>Git</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/github/white" width="26" alt="GitHub" /><br><sub>GitHub</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/intellijidea/white" width="26" alt="IntelliJ IDEA" /><br><sub>IntelliJ</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/xampp/white" width="26" alt="XAMPP" /><br><sub>XAMPP</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/linux/white" width="26" alt="Linux" /><br><sub>Linux</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/ubuntu/white" width="26" alt="Ubuntu" /><br><sub>Ubuntu</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/apache/white" width="26" alt="Apache" /><br><sub>Apache</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://static.vecteezy.com/system/resources/thumbnails/018/802/296/small/white-cloud-icon-png.png" width="26" alt="VPS" /><br><sub>VPS</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://i.imgur.com/IBkXUJF.png" width="26" alt="Pterodactyl" /><br><sub>Pterodactyl</sub>
-    </td>
-    <td align="center" width="78" height="78" bgcolor="#111111">
-      <img src="https://cdn.simpleicons.org/figma/white" width="26" alt="Figma" /><br><sub>Figma</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PS</strong><br><sub>Photoshop</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>AI</strong><br><sub>Illustrator</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>AE</strong><br><sub>After Effects</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>PR</strong><br><sub>Premiere Pro</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>AN</strong><br><sub>Animate</sub></td>
-    <td align="center" width="78" height="78" bgcolor="#111111"><strong>ESP</strong><br><sub>Arduino IDE</sub></td>
-  </tr>
-</table>
-
-### Minecraft Platforms and Server Stack
-
-This part represents the server platforms, APIs, and ecosystem tools I work with most across plugin development and network infrastructure.
-For consistency, I use monochrome monogram tiles here so the section stays clean and avoids broken or mismatched niche logos.
+My main development focus in the Minecraft ecosystem is centered around plugin platforms, server software, and proxy infrastructure.
+These are the core platforms I work with most when building plugins, backend systems, and network-level solutions.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Paper-111111?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Purpur-111111?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Folia-111111?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Spigot-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bukkit-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bungee-111111?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square&logo=velocity&logoColor=white" />
-  <img src="https://img.shields.io/badge/WorldGuard-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/WorldEdit-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAWE-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/ProtocolLib-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-111111?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Slimefun-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeyserMC-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Resource%20Pack-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/NMS-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plugin%20API-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/BungeeCord-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square&logoColor=white" />
 </p>
 
 ---
