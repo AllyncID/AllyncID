@@ -133,7 +133,7 @@ These are the core platforms I work with most when building plugins, backend sys
   <img src="https://www.hosterfy.com/assets/images/games/bungeecord/img/hero.webp" width="16" alt="Bungeecord" />
   <img src="https://img.shields.io/badge/BungeeCord-111111?style=flat-square" alt="BungeeCord" />
 
-  <img src="https://assets.papermc.io/brand/velocity_logo_white.min.svg" width="16" alt="Velocity" />
+  <img src="https://avatars.githubusercontent.com/u/41710604?s=280&v=4" width="16" alt="Velocity" />
   <img src="https://img.shields.io/badge/Velocity-111111?style=flat-square" alt="Velocity" />
 </p>
 
