@@ -39,6 +39,33 @@ What I usually build:
 - Mobile and cross-platform applications
 - UI/UX concepts and branded assets
 
+## Featured Project
+
+A highlighted project that reflects my interest in Minecraft tooling, resource-pack workflows, and practical cross-platform utilities.
+
+<p align="center">
+  <a href="https://github.com/AllyncID/java-to-bedrock-rp-converter">
+    <img src="https://img.shields.io/badge/Featured%20Project-Java%20to%20Bedrock%20RP%20Converter-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="720" bgcolor="#111111">
+      <br>
+      <a href="https://github.com/AllyncID/java-to-bedrock-rp-converter">
+        <img src="https://img.shields.io/badge/View%20Repository-FFFFFF?style=for-the-badge&logo=github&logoColor=111111" alt="View Repository" />
+      </a>
+      <br><br>
+      <strong>Java to Bedrock RP Converter</strong>
+      <br><br>
+      A resource-pack utility designed to help convert Java Edition packs into Bedrock-ready outputs,
+      making cross-platform Minecraft asset workflows cleaner, faster, and easier to manage.
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllyncID/AllyncID/output/github-contribution-grid-snake-dark.svg" />
@@ -46,7 +73,6 @@ What I usually build:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AllyncID/AllyncID/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 ---
 
 ## Tech Stack
