@@ -45,7 +45,7 @@ A highlighted project that reflects my interest in Minecraft tooling, resource-p
 
 <p align="center">
   <a href="https://github.com/AllyncID/java-to-bedrock-rp-converter">
-    <img src="https://img.shields.io/badge/Featured%20Project-Java%20to%20Bedrock%20RP%20Converter-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Featured%20Project-Java%20to%20Bedrock%20RP%20Converter-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
