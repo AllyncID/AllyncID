@@ -195,21 +195,9 @@ A quick overview of my development activity, consistency, and ongoing work acros
 
 ---
 
-## Contact
+## Current Focus
 
-For projects, collaborations, or development-related work, these are the best places to reach me.
-
-<p>
-  <a href="https://github.com/AllyncID">
-    <img src="https://img.shields.io/badge/GitHub-AllyncID-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://store.minehive.id">
-    <img src="https://img.shields.io/badge/Website-store.minehive.id-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://discord.minehive.id">
-    <img src="https://img.shields.io/badge/Discord-discord.minehive.id-262626?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+Right now, I’m mainly focused on Minecraft systems, gameplay tooling, resource-pack utilities, and clean web-based experiences for community-driven platforms.
 
 ---
 
